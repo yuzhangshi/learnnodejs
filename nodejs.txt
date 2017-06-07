@@ -1,0 +1,5 @@
+$ npm -v  //nodejs 包管理工具  查看npm版本
+
+$ npm install <Module Name> // npm 安装 Node.js 模块语法
+
+$ npm install express //npm 命令安装常用的 Node.js web框架模块 express:
